@@ -9,6 +9,7 @@ body{
 .myimage{
   border-radius:100%;
 text-align: right;
+align-content: right;
 }
 h1,p{
   text-align: center;
